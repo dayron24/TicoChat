@@ -2,5 +2,5 @@ pandas
 numpy 
 openai
 python-dotenv
+pysqlite3-binary
 chromadb
-flask

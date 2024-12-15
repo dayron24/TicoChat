@@ -4,3 +4,4 @@ openai
 python-dotenv
 pysqlite3-binary
 chromadb
+django
